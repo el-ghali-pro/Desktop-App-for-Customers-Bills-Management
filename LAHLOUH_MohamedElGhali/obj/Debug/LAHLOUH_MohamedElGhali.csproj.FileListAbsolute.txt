@@ -1,0 +1,10 @@
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\bin\Debug\LAHLOUH_MohamedElGhali.exe.config
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\bin\Debug\LAHLOUH_MohamedElGhali.exe
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\bin\Debug\LAHLOUH_MohamedElGhali.pdb
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.csproj.AssemblyReference.cache
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.Form1.resources
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.Properties.Resources.resources
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.csproj.GenerateResource.cache
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.csproj.CoreCompileInputs.cache
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.exe
+C:\Users\Princello\source\repos\LAHLOUH_MohamedElGhali\LAHLOUH_MohamedElGhali\obj\Debug\LAHLOUH_MohamedElGhali.pdb
